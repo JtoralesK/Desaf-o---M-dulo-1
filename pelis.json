@@ -1,0 +1,58 @@
+
+[
+    {
+        "title": "Pulp Fiction",
+        "rating": 8.8,
+        "tags": ["thriller", "crimen", "drama"],
+        "year": 1994
+    }, 
+    {
+        "title": "Batman: El caballero de la noche ",
+        "rating": 9,
+        "tags": ["drama", "accion" , "crimen"],
+        "year": 2008
+
+    },
+    {
+        "title": "Hombre en llamas ",
+        "rating": 8.7,
+        "tags": ["drama", "accion" , "crimen"],
+        "year": 2004
+
+    },
+    {
+        "title": "Rapido y furioso",
+        "rating": 9.3,
+        "tags": ["accion", "aventura" , "crimen" ],
+        "year": 2001
+
+    },
+    {
+        "title": "Sherk",
+        "rating": 9,
+        "tags": ["animacion", "fantasia" , "aventura" ],
+        "year": 2001
+
+    },
+    {
+        "title": "The Avengers",
+        "rating": 9.6,
+        "tags": ["ciencia ficcion", "accion" , "fantasia"],
+        "year": 2004
+
+    },
+    {
+        "title": "El conjuro 2",
+        "rating": 8.6,
+        "tags": [ "terror" , "thriller", "misterio"],
+        "year": 2016
+
+    },
+    {
+        "title": "Toy Story",
+        "rating": 8.6,
+        "tags": ["animacion", " infantil" , "fantasia"],
+        "year": 1995
+
+    }
+]
